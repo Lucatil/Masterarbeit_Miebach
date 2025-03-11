@@ -1,6 +1,8 @@
 # Masterarbeit_Miebach
 Implementation of Voronois second raduction theory and a generalized T-theory, based on papers by Dutour Sikirić, Schürmann and Vallentin via Julia.
 
+By Sebastian Robert Miebach.
+
 
 These are the raw Juilia files for my masters thesis.
 start.jl

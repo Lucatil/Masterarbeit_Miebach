@@ -15,5 +15,5 @@ Maxdet_Tscc.jl
 For full functionality one also needs the ISOM and AUTO software by Bernd Souvignier.
 
 
-If you want to contiue my work and improve it, feel free to contact me under miebach.sebi at gmail.com.
+If you want to contiue my work and improve it, feel free to contact me.
 I will send you my Thesis and give you some explaination.

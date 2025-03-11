@@ -22,7 +22,7 @@ start_subdivision.jl
 Maxdet_Tscc.jl
 
 
-For full functionality one also needs the ISOM and AUTO software by Bernd Souvignier.
+For full functionality you also need the ISOM and AUTO software by Bernd Souvignier.
 
 
 If you want to contiue my work and improve it, feel free to contact me.

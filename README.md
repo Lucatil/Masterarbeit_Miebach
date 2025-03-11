@@ -5,14 +5,14 @@ By Sebastian Robert Miebach.
 
 
 These are the raw Juilia files for my masters thesis.
-start.jl
+start.jl.
 
-scc.jl
-Maxdet_scc.jl
+scc.jl.
+Maxdet_scc.jl.
 
-Tscc.jl
-start_subdivision.jl
-Maxdet_Tscc.jl
+Tscc.jl.
+start_subdivision.jl.
+Maxdet_Tscc.jl.
 
 For full functionality one also needs the ISOM and AUTO software by Bernd Souvignier.
 

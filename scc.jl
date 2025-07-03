@@ -1,4 +1,4 @@
-#The code basis for this file was kindly provided by Sven Arends from Uni Rostock.
+#The code for this file was kindly provided by Sven Arends from Uni Rostock.
 #Merely a few things were changed to fit in with the remaining files.
 
 module scc
